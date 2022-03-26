@@ -1,6 +1,6 @@
 👋 Hi there, I'm @xsini92 
 
-🏢 I studied Chemistry but ended up to be an IT Healthcare Consultant. Life's jokes.
+🏢 I studied Chemistry but ended up to be an IT Healthcare Consultant. Life's jokes! 😂
 
 ✍️ I create scripts both in Linux and Windows, develop small Android apps and little Java software, mostly for fun or to help myself in my job.
 
