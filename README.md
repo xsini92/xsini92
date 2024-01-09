@@ -6,7 +6,7 @@
   - 2nd level Helpdesk
   - Project Delivery
   - User Requirements analist/definer
-  - Knowledge Base keeper
+  - Knowledge Base maintenance
 
 ✍️ In my free time, I create scripts both in Linux and Windows, develop small Android apps and little Java softwares, mostly for fun or to help myself in my job.
 
