@@ -1,6 +1,6 @@
 👋 Hi there, I'm @xsini92 
 
-🏢 I studied Chemistry but ended up to be an IT Healthcare Consultant. Life's jokes! 😂
+🏢 I studied Chemistry but ended up to be an IT Healthcare Product Owner. Life's jokes! 😂
 
 ⚙️ In my job, I do various stuff like:
   - 2nd level Helpdesk
